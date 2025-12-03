@@ -1,0 +1,18 @@
+//prelim data for training model (in progress)
+[
+  {
+    "Career Cluster": "Entrepreneurship",
+    "Instructional Area": "Entrepreneurship",
+    "Event Name": "Principles of Entrepreneurship",
+    "Performance Indicators": "Generate venture ideas. Assess start-up requirements. Assess risks associated with venture. Explain the nature of overhead/operating expenses. Explain factors that influence customer/client/business buying behavior"
+    "21st Century Skills": "Critical Thinking – Reason effectively and use systems thinking. Problem Solving – Make judgments and decisions and solve problems. Communication – Communicate clearly. Creativity and Innovation – Show evidence of creativity."
+    "Case Study": "You are to assume the role of co-owners of DREAM CLEAN, a business that provides residential cleaning services. You will meet with a potential investor (judge) to attempt to gain funding for a marketing and promotional plan for a new product idea. Your team started DREAM CLEAN two years ago. The business provides weekly housekeeping and cleaning services to residential customers. Customers can choose to add on extra services such as window washing, carpet cleaning, or oven cleaning for additional fees. To build clientele, you would like to begin offering gift certificates for purchase that would allow the recipient a one-time residential cleaning service. Your team knows that there are markets that would
+appreciate the gift of a clean house. Unfortunately, you do not have the funds to put toward the marketing and promotion of these new gift certificates. The potential investor (judge) is intrigued by the idea but wants more information about the marketing and promotional plan for the new DREAM CLEAN gift certificate. The investor (judge) wants your team to explain: Specific target market, Marketing strategies, Appropriate elements of the promotional mix to reach target market, Communications channels used, Approximate costs involved. You will present your plan to the potential investor (judge) in a meeting to take place in the potential investor’s (judge’s) office. The potential investor (judge) will begin the meeting by greeting you and asking to hear your ideas. After you have presented your ideas and have answered the potential investor’s (judge’s) questions, the potential investor (judge) will conclude the meeting by thanking you for your work.", 
+  },
+  {
+    "Career Cluster": "Entrepreneurship",
+    "Instructional Area": "Promotion",
+    "Event Name": "Entrepreneurship Team Decision Making",
+    "Performance Indicators": "
+  }
+]
