@@ -1,5 +1,5 @@
-//front
-async function sendToAI() {
+//work w html
+async function sendTollava() {
   const prompt = document.getElementById("prompt").value;
   const file = document.getElementById("mediaInput").files[0];
 
